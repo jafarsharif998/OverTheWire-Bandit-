@@ -1,0 +1,35 @@
+Level 0
+
+I connected to the Bandit game using SSH with the login details given on the website.
+
+Level 0 → Level 1
+
+The password was stored in a file called readme inside the home folder, so I opened that file and read the password.
+
+Level 1 → Level 2
+
+The password was inside a file literally named “-”. To access it, I had to point directly to the file name instead of treating it like an option.
+
+Level 2 → Level 3
+
+The password was in a file with spaces in its name. I typed the name carefully with escaped spaces so it could be read.
+
+Level 3 → Level 4
+
+The password was hidden in the inhere directory. After checking for hidden files, I found one with an unusual name and read the password inside it.
+
+Level 4 → Level 5
+
+The password was one of nine files inside the inhere directory. Only one of them contained normal human-readable text, so I looked through all of them until I found the right one.
+
+Level 5 → Level 6
+
+The password was stored in a hidden file that was exactly 1033 bytes in size. I searched through the files and found the one that matched the requirement, then opened it to get the password.
+
+Level 6 → Level 7
+
+The password was inside a file that belonged to the user bandit7 and the group bandit6, and it was exactly 33 bytes long. I searched for files with those properties, found the correct one, and read the password.
+
+Level 7 → Level 8
+
+The password was hidden inside a file called data.txt. I searched through the file until I found the line containing the word millionth, which had the password next to it.
